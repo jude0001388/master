@@ -1,0 +1,201 @@
+year,make,model,state,mileage,color,sellingprice
+2012,Audi,A5,fl,39084,silver,19200
+2012,Audi,A7,fl,36433,gray,39800
+2012,Audi,A4,fl,36717,black,17200
+2012,MINI,Cooper,fl,23060,blue,16800
+2012,Mercedes-Benz,CLS-Class,fl,29295,black,41000
+2012,Mercedes-Benz,GLK-Class,fl,25317,brown,24200
+2012,Porsche,Panamera,fl,6208,gray,57500
+2012,Porsche,Cayenne,fl,20075,white,50000
+2015,Mercedes-Benz,GLK-Class,fl,8427,white,34800
+2014,Audi,A4,fl,9707,white,33200
+2014,Audi,A4,fl,10663,silver,25200
+2014,Audi,A6,fl,18111,gray,39400
+2014,Audi,A4,fl,23192,blue,22400
+2014,Audi,Q7,fl,27796,black,49200
+2014,MINI,Cooper Countryman,fl,27159,blue,19000
+2014,Mercedes-Benz,CLA-Class,fl,10104,white,47200
+2014,Mercedes-Benz,E-Class,fl,8105,gray,51000
+2014,Porsche,Cayenne,fl,23917,black,53400
+2014,Porsche,Panamera,fl,5168,blue,65500
+2014,Porsche,Cayenne,fl,18759,white,74200
+2013,Audi,RS 5,fl,15746,gray,52400
+2013,Audi,Q5,fl,32480,blue,31200
+2013,Audi,Q7,fl,30730,brown,40800
+2013,Audi,A5,fl,29553,silver,33000
+2013,Audi,A4,fl,28756,red,21300
+2013,Audi,A4,fl,33330,gray,21000
+2013,Audi,A4,fl,16050,black,23600
+2013,Audi,Q5,fl,24699,white,36000
+2013,BMW,X1,fl,49662,white,19000
+2013,Porsche,911,fl,4025,gray,68500
+2012,Audi,A4,fl,23639,silver,18300
+2012,Audi,A4,fl,70000,white,15900
+2012,BMW,5 Series,fl,41867,white,29500
+2012,Mercedes-Benz,C-Class,fl,44194,black,22200
+2014,Audi,A6,fl,18114,black,32500
+2014,Mercedes-Benz,G-Class,fl,7982,blue,119000
+2013,Audi,A4,fl,29397,black,20500
+2013,Audi,Q5,fl,12725,white,25800
+2013,Audi,Q5,fl,20740,gray,36000
+2013,BMW,5 Series,fl,47984,blue,25200
+2013,BMW,5 Series,fl,48520,black,32400
+2013,Mercedes-Benz,M-Class,fl,27425,white,33900
+2012,BMW,5 Series,fl,43731,black,33200
+2014,Audi,S5,fl,9577,black,46000
+2012,VW,Jetta,fl,32717,red,10600
+2012,VW,Jetta,fl,67509,gray,8400
+2012,VW,Tiguan,fl,44650,black,17600
+2014,VW,Jetta,fl,35188,black,15300
+2012,Audi,A4,fl,23525,black,28600
+2012,Mercedes-Benz,C-Class,fl,42862,silver,20000
+2013,Audi,Q5,fl,25480,black,36400
+2013,Audi,Q5,fl,41817,white,25500
+2012,Audi,A4,fl,54218,white,17200
+2012,Audi,A4,fl,39521,white,19400
+2012,VW,Golf,fl,44821,black,9300
+2014,VW,Passat,fl,10351,gray,21800
+2014,VW,GTI,fl,8307,white,22000
+2013,Mercedes-Benz,G-Class,fl,26799,black,105000
+2013,Audi,S5,fl,20158,silver,42000
+2012,VW,Tiguan,ny,12802,gray,18300
+2012,VW,Jetta,ny,17178,red,9600
+2014,VW,Tiguan,ny,10388,gray,24200
+2013,BMW,X3,ny,48883,gray,28500
+2012,Audi,Q5,ny,56767,silver,22000
+2013,BMW,3 Series,ny,22382,white,24500
+2013,BMW,3 Series,ny,17873,white,24400
+2014,BMW,X5,ny,2782,white,50500
+2013,Mercedes-Benz,M-Class,ny,36111,gray,30400
+2012,MINI,Cooper,ny,17539,silver,13600
+2013,BMW,3 Series,ny,17454,blue,25500
+2013,MINI,Cooper Countryman,ny,26861,white,14000
+2012,BMW,X5,ny,25563,white,32500
+2013,VW,Passat,ny,52961,black,6700
+2013,VW,Passat,ny,20010,silver,17200
+2012,Audi,A7,ny,55054,black,34600
+2012,VW,Jetta SportWagen,ny,44133,silver,14300
+2012,Audi,A4,ny,50899,black,17300
+2012,Mercedes-Benz,C-Class,ny,53665,beige,19700
+2012,Mercedes-Benz,C-Class,ny,37940,gray,22200
+2012,Mercedes-Benz,C-Class,ny,29770,gray,23000
+2012,Mercedes-Benz,GLK-Class,ny,10387,green,27700
+2012,VW,CC,ny,43066,blue,12900
+2012,VW,Jetta,ny,35990,black,8100
+2012,VW,Jetta,ny,36749,black,8400
+2012,VW,Passat,ny,46552,black,9900
+2012,VW,Passat,ny,34320,black,10200
+2012,VW,Passat,ny,21933,white,12400
+2012,VW,Passat,ny,75147,black,13400
+2012,VW,Passat,ny,43135,black,11000
+2012,VW,Passat,ny,45375,gray,11600
+2013,Mercedes-Benz,C-Class,ny,31526,black,23700
+2012,Audi,Q7,ny,47472,black,36400
+2013,Mercedes-Benz,GLK-Class,ny,41159,black,16400
+2012,Audi,S5,ny,46876,black,29000
+2014,VW,Jetta,ny,6517,red,11900
+2013,VW,Jetta,ny,39820,black,9000
+2013,VW,Jetta,ny,35818,gray,9400
+2013,VW,Jetta,ny,37003,black,7900
+2013,VW,Jetta,ny,41029,gray,8600
+2013,VW,Jetta,ny,40712,black,8700
+2013,VW,Jetta,ny,43245,white,9400
+2013,VW,Jetta,ny,37238,red,9700
+2013,BMW,X1,ny,46024,gray,22600
+2012,BMW,X3,ny,86587,black,18500
+2013,VW,Passat,ny,66608,white,12500
+2012,BMW,X5,ny,60015,black,27900
+2012,Mercedes-Benz,C-Class,ny,46232,black,21800
+2013,Audi,S4,ny,51289,gray,30500
+2014,VW,Passat,ny,8543,burgundy,13800
+2013,Audi,A4,ny,17135,blue,26200
+2012,VW,Beetle,ny,57272,gray,8600
+2012,VW,Passat,ny,52634,gray,7500
+2014,BMW,3 Series,ca,1331,gray,30000
+2014,BMW,6 Series Gran Coupe,ca,2641,gray,67000
+2014,BMW,M5,ca,14943,black,65000
+2014,Audi,A4,ca,9557,white,32250
+2014,Audi,A6,ca,14414,black,49750
+2014,Audi,Q5,ca,7983,white,40000
+2014,BMW,6 Series,ca,8819,black,67200
+2014,BMW,5 Series,ca,25969,black,30000
+2015,Audi,A3,ca,5826,gray,23750
+2014,BMW,6 Series,ca,10736,black,65000
+2014,BMW,X5,ca,11278,gray,34000
+2014,Audi,SQ5,ca,9606,white,47500
+2014,Audi,S5,ca,5875,black,44500
+2014,BMW,3 Series,ca,111,black,30500
+2014,BMW,M5,ca,16360,black,64250
+2014,BMW,3 Series,ca,9027,white,27500
+2014,BMW,6 Series,ca,13205,white,65000
+2014,BMW,X6,ca,379,white,51700
+2014,BMW,6 Series Gran Coupe,ca,7305,white,66100
+2014,BMW,M5,ca,7766,gray,77250
+2015,Audi,A3,ca,31,white,17300
+2015,Audi,A3,ca,1906,gray,25750
+2014,BMW,6 Series,ca,8037,black,65000
+2014,Audi,A8,ca,32918,black,50000
+2014,BMW,X1,ca,19689,white,26500
+2014,BMW,3 Series,ca,12172,black,66000
+2014,BMW,6 Series,ca,9837,black,61500
+2014,BMW,6 Series Gran Coupe,ca,37752,white,58000
+2014,BMW,M5,ca,13386,white,65000
+2014,BMW,M5,ca,15161,white,65801
+2014,Audi,TTS,ca,3996,silver,34250
+2014,BMW,4 Series,ca,18152,white,39750
+2014,BMW,6 Series,ca,8891,silver,67200
+2014,BMW,6 Series,ca,19499,silver,62000
+2014,BMW,5 Series,ca,12292,white,46500
+2014,BMW,6 Series,ca,15727,white,65000
+2014,BMW,X5,ca,4503,white,57250
+2013,Mercedes-Benz,S-Class,ca,4811,black,45500
+2013,Mercedes-Benz,C-Class,ca,20705,—,25750
+2013,Mercedes-Benz,C-Class,ca,20161,white,25000
+2013,Mercedes-Benz,C-Class,ca,31978,black,21000
+2013,Mercedes-Benz,SLK-Class,ca,8470,black,37000
+2013,Mercedes-Benz,E-Class,ca,4995,black,31750
+2013,MINI,Cooper Clubman,ca,36498,green,13600
+2013,MINI,Cooper,ca,7273,blue,15000
+2013,Mercedes-Benz,S-Class,ca,16426,black,54250
+2013,MINI,Cooper,ca,36000,green,13700
+2013,MINI,Cooper,ca,28156,black,2500
+2013,Mercedes-Benz,C-Class,ca,10782,gray,26000
+2013,Mercedes-Benz,S-Class,ca,14557,black,51500
+2013,Mercedes-Benz,GLK-Class,ca,21052,gray,25500
+2013,Mercedes-Benz,C-Class,ca,18960,black,22750
+2013,Mercedes-Benz,E-Class,ca,28463,—,36250
+2013,Mercedes-Benz,S-Class,ca,24168,black,56250
+2013,Mercedes-Benz,C-Class,ca,23615,white,22250
+2013,Mercedes-Benz,C-Class,ca,19780,black,23750
+2013,Mercedes-Benz,GL-Class,ca,26853,gray,48000
+2013,Mercedes-Benz,GL-Class,ca,16584,silver,46750
+2013,Mercedes-Benz,M-Class,ca,6536,silver,42750
+2013,MINI,Cooper Countryman,ca,41357,silver,16500
+2013,Mercedes-Benz,S-Class,ca,38407,black,54000
+2013,Mercedes-Benz,M-Class,ca,32532,,34500
+2013,Mercedes-Benz,S-Class,ca,38691,black,48000
+2013,Mercedes-Benz,S-Class,ca,33776,black,46500
+2013,Mercedes-Benz,C-Class,ca,16486,—,23500
+2013,Mercedes-Benz,C-Class,ca,23783,black,22500
+2013,Mercedes-Benz,C-Class,ca,22984,white,21750
+2013,MINI,Cooper Clubman,ca,36764,white,14000
+2013,Mercedes-Benz,S-Class,ca,10862,black,57250
+2013,Mercedes-Benz,C-Class,ca,23941,black,21750
+2013,Mercedes-Benz,C-Class,ca,10972,—,36500
+2013,Mercedes-Benz,E-Class,ca,31064,gray,30750
+2012,Audi,A4,fl,55048,black,18600
+2012,Audi,Q5,fl,26227,gray,29200
+2012,Audi,A6,fl,37085,black,26600
+2012,Audi,A4,fl,39008,white,21200
+2012,BMW,1 Series,fl,39755,black,21200
+2012,Audi,A4,fl,25501,white,20000
+2012,BMW,5 Series,fl,26629,silver,30200
+2012,BMW,3 Series,fl,27270,white,19800
+2012,BMW,3 Series,fl,41575,white,24500
+2012,BMW,5 Series,fl,22418,white,44000
+2012,BMW,5 Series,fl,43809,gray,25400
+2012,MINI,Cooper,fl,28947,silver,8900
+2012,Mercedes-Benz,GLK-Class,fl,50486,blue,19500
+2012,VW,CC,fl,22992,blue,12600
+2014,MINI,Cooper Countryman,fl,27579,white,18600
+2014,Mercedes-Benz,M-Class,fl,28843,white,38600
