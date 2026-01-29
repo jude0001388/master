@@ -61,7 +61,7 @@ def avg_rating_by_month(reviews):
 
     months = list(month_map.keys())
     averages = [
-        (sum(monthly[m]) / len(monthly[m])) if monthly[m] else 0
+        (sum(monthly) / len(monthly)) if monthly[m] else 0
         for m in months
     ]
 
