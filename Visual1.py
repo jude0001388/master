@@ -3,7 +3,7 @@ from collections import Counter
 
 def visualise_data_menu(reviews):
     print("\nPlease enter one of the following options:\n")
-    print("[A] Most Reviewed Parks")
+    print("[A] Most Reviewed Park")
     print("[B] Average Scores")
     print("[C] Most Popular Month by Park\n")
 
@@ -27,7 +27,7 @@ def pie_reviews_per_park(reviews):
     plt.title("Reviews per Park")
     plt.show()
 def bottom_10_locations(reviews):
-    park = input("Enter park: ").strip()
+    park = input("Enter Park: ").strip()
 
     scores = {}
     for r in reviews:
@@ -45,7 +45,7 @@ def bottom_10_locations(reviews):
     plt.title(f"Lowest Avg Ratings for {park}")
     plt.show()
 def avg_rating_by_month(reviews):
-    park = input("Enter park: ").strip()
+    park = input("Enter Park: ").strip()
 
     month_map = {
         "January": 1, "February": 2, "March": 3, "April": 4,
